@@ -100,6 +100,37 @@ I don’t manage *around* technology, I manage *with* it.
 
 ---
 
+## 🧰 Skill Stack (Curated & Practical)
+
+**Project & Program Delivery**
+- Agile methodology, planning, and scheduling  
+- Documentation and workflow optimization  
+- Stakeholder communication and coordination  
+- Tools: Jira, Notion, ClickUp, MS Office, Google Workspace  
+
+**Technical Foundation**
+- Programming: Python, Java, JavaScript, SQL, C/C++  
+- Web fundamentals: HTML, CSS  
+- Comfortable reading, debugging, and reviewing code  
+- Linux, IT troubleshooting, system support  
+
+**Data, Analytics & Tooling**
+- Tableau, Looker Studio, Excel  
+- Google Analytics, basic data analysis  
+- Using data to inform decisions and improve processes  
+
+**Engineering Exposure (Supporting Skills)**
+- Familiarity with ML/DL concepts and tools (TensorFlow, PyTorch, scikit-learn)  
+- Docker and basic CI/CD concepts (GitHub Actions)  
+
+**Digital & Operational Tools**
+- Google Ads, HubSpot, digital analytics  
+- AI tools and prompt-based workflows for productivity  
+
+*I don’t collect tools — I use them to improve delivery, clarity, and outcomes.*
+
+---
+
 ## 🤝 Open To
 
 - Entry to mid-level project management roles  
