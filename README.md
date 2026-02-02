@@ -31,13 +31,13 @@ I like understanding **how things work end-to-end**: code, workflows, tooling, a
 
 ---
 
-## ◼ What I Care About
+## ◼ How I Think & Work
 
-- Building things that evolve over time  
-- Writing code that improves with context, not ego  
-- Learning in public instead of pretending to know everything  
-- Clean systems > clever hacks  
-- Progress > perfection  
+- Systems over shortcuts  
+- Clarity before execution  
+- Progress over perfection  
+- Optimize only what matters  
+- Learn fast, adapt faster 
 
 ---
 
@@ -74,27 +74,6 @@ I come from a coding-heavy academic background, which means:
 - I focus on systems and delivery, not just tasks  
 
 I don’t manage *around* technology. I manage *with* it.
-
----
-
-## ◼ How I Work
-
-- Start with clarity, not urgency  
-- Break ambiguity into small, testable steps  
-- Keep progress visible to everyone involved  
-- Improve processes after understanding reality  
-- Optimize only what actually matters  
-
----
-
-## ◼ What I Do Well
-
-- Turning vague ideas into executable plans  
-- Coordinating people, processes, and timelines  
-- Improving operations without overengineering  
-- Keeping progress visible and teams aligned  
-- Balancing speed with sustainability  
-- Learning fast and adapting faster  
 
 ---
 
