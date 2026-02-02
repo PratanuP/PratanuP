@@ -127,7 +127,7 @@ I don’t manage *around* technology, I manage *with* it.
 - Google Ads, HubSpot, digital analytics  
 - AI tools and prompt-based workflows for productivity  
 
-*I don’t collect tools — I use them to improve delivery, clarity, and outcomes.*
+*I don’t collect tools; I use them to improve delivery, clarity, and outcomes.*
 
 ---
 
